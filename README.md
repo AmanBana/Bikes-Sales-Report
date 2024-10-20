@@ -11,7 +11,7 @@ Our goal is to identify the ideal customer for a bike shop. To accomplish this, 
 To start the project, data cleaning was performed to ensure accurate analysis. This included the removal of duplicate entries to avoid potential biases in the dataset. Furthermore, the data was updated to be more interpretable, such as replacing "m" and "f" with "male" and "female", and "m" and "s" with "married" and "single". Age groups were also created to facilitate better visualization of the data. Additionally, I ensured there was no missing data and that each field had the correct data type.
 
 ### Excel Worksheet after Data Cleaning
-![Excel Worksheet](https://github.com/AmanBana/Bikes-Sales-Report/blob/main/Dashboard.png)
+![Excel Worksheet](https://github.com/AmanBana/Bikes-Sales-Report/blob/main/Data%20Cleaning.png)
 
 *Fig 1. This image shows the dataset after it was cleaned.*
 
@@ -44,11 +44,15 @@ I used the customer data to create pivot tables that grouped the customers based
 
 ### Excel Analysis
 
+![Excel Worksheet](https://github.com/AmanBana/Bikes-Sales-Report/blob/main/Pivot.png)
+
 *Fig 2. This image shows the different pivot tables and charts.*
 
 To make it easy to view all this information at once, I created a dashboard that displays all the charts. I also added a slicer to the dashboard, which allows users to filter the data based on different criteria. This makes it easy to identify the customer segments that are most likely to purchase a bike.
 
 ### Excel Sales Dashboard
+
+![Excel Worksheet](https://github.com/AmanBana/Bikes-Sales-Report/blob/main/Dashboard.png)
 
 *Fig 3. This image shows the Bike Sales Dashboard.*
 
