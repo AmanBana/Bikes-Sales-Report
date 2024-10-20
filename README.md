@@ -4,6 +4,7 @@
 
 Our goal is to identify the ideal customer for a bike shop. To accomplish this, we will analyze customer data from an Excel sheet containing information on Marital Status, Gender, Income, Children, Education, Occupation, Home Owner, Cars, Commute Distance, Region, Age, and Purchased Bike.
 
+[Download Excel File](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FAmanBana%2FBikes-Sales-Report%2Frefs%2Fheads%2Fmain%2FExcel%2520Dashboard%2520Project.xlsx&wdOrigin=BROWSELINK)
 ### Download from GitHub!
 
 ## Setup
